@@ -1,0 +1,7 @@
+Parameter,Value
+Best n_factors,100.0
+Best n_epochs,20.0
+Best learning rate,0.01
+Best regularization,0.05
+Best CV RMSE,0.8646976779703874
+Best CV MAE,0.6809514271871683
